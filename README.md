@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate Software developer from Colombia</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, laravel, bootstrap, TailwindCSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, TailwindCSS**
 
 - 📫 How to reach me **sebastian20020125@gmail.com | sebastian20020125@outlook.com**
 
