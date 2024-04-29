@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate Software developer from Colombia</h3>
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, TailwindCSS**
-- 📫 How to reach me **sebastian20020125@gmail.com**
+- 📫 How to reach me **codebysebastian@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/sebastian-niño-lopez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/codebysebastian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
